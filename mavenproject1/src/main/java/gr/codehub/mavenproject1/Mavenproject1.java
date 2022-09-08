@@ -12,6 +12,7 @@ package gr.codehub.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
+        // intellij
         System.out.println("Hello World!");
     }
 }
